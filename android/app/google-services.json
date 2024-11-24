@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913006811009",
+    "project_id": "pretest2-2ea51",
+    "storage_bucket": "pretest2-2ea51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913006811009:android:a2ead5e227ebf0db23ba80",
+        "android_client_info": {
+          "package_name": "com.example.pretest2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsjeuVnTK0rPtkqvJvbQNA6vs7jqBgCc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
